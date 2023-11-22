@@ -16,7 +16,7 @@ class mr(object):
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/Flipkartlootzs>Pᴀᴛʜᴀɴ</a> 
-├👨‍💻 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 : <a href=https://t.me/pathan_botz>Pᴀᴛʜᴀɴ Bᴏᴛᴢ</a>
+├👨‍💻 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 : <a href=https://telegram.me/PrivateHelpXBot>Pᴀᴛʜᴀɴ Bᴏᴛᴢ</a>
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
 ├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾𝙳𝙱</a>
@@ -41,13 +41,12 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/back_up_pathan>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://telegram.me/PrivateHelpXBot>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» Sᴘᴇᴄɪᴀʟ Tʜᴀɴᴋs: <a href=https://t.me/Movies_vala_Family> Mr.Moviewala 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
-» Sᴜᴘᴘᴏʀᴛ Us : <a href=https://t.me/back_up_pathan>Pathan</a>
+» Sᴜᴘᴘᴏʀᴛ Us : <a href=https://telegram.me/Private_Bots>Pathan</a>
 """

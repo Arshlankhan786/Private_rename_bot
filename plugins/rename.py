@@ -27,7 +27,7 @@ async def rename_start(client, message):
 
     try:
         await message.reply_text(
-            text=f"**__Pʟᴇᴀꜱᴇ Eɴᴛᴇʀ Nᴇᴡ Fɪʟᴇɴᴀᴍᴇ...__**\n\n**Oʟᴅ Fɪʟᴇ Nᴀᴍᴇ** :- {filename}",
+            text=f"**Pʟᴇᴀꜱᴇ Eɴᴛᴇʀ Nᴇᴡ Fɪʟᴇɴᴀᴍᴇ...**\n\n**Oʟᴅ Fɪʟᴇ Nᴀᴍᴇ** :- {filename}",
 	    reply_to_message_id=message.id,  
 	    reply_markup=ForceReply(True)
         )       
@@ -35,7 +35,7 @@ async def rename_start(client, message):
     except FloodWait as e:
         await sleep(e.value)
         await message.reply_text(
-            text=f"**__Pʟᴇᴀꜱᴇ Eɴᴛᴇʀ Nᴇᴡ Fɪʟᴇɴᴀᴍᴇ...__**\n\n**Oʟᴅ Fɪʟᴇ Nᴀᴍᴇ** :- {filename}",
+            text=f"**Pʟᴇᴀꜱᴇ Eɴᴛᴇʀ Nᴇᴡ Fɪʟᴇɴᴀᴍᴇ...**\n\n**Oʟᴅ Fɪʟᴇ Nᴀᴍᴇ** :- {filename}",
 	    reply_to_message_id=message.id,  
 	    reply_markup=ForceReply(True)
         )

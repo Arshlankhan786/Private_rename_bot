@@ -17,8 +17,8 @@ async def start(client, message):
     button = InlineKeyboardMarkup([[
         InlineKeyboardButton("👨‍💻 Dᴇᴠꜱ 👨‍💻", callback_data='dev')
         ],[
-        InlineKeyboardButton('📯 Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/pathan_botz'),
-        InlineKeyboardButton('💁‍♂️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/back_up_pathan')
+        InlineKeyboardButton('📯 Uᴩᴅᴀᴛᴇꜱ', url='https://telegram.me/Private_Bots'),
+        InlineKeyboardButton('💁‍♂️ Sᴜᴩᴩᴏʀᴛ', url='https://telegram.me/PrivateHelpXBot')
         ],[
         InlineKeyboardButton('🎛️ Aʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('🛠️ Hᴇʟᴩ', callback_data='help')
@@ -39,8 +39,8 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup([[
                 InlineKeyboardButton("👨‍💻 Dᴇᴠꜱ 👨‍💻", callback_data='dev')
                 ],[
-                InlineKeyboardButton('📯 Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/pathan_botz'),
-                InlineKeyboardButton('💁‍♂️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/back_up_pathan')
+                InlineKeyboardButton('📯 Uᴩᴅᴀᴛᴇꜱ', url='https://telegram.me/Private_Bots'),
+                InlineKeyboardButton('💁‍♂️ Sᴜᴩᴩᴏʀᴛ', url='https://telegram.me/PrivateHelpXBot')
                 ],[
                 InlineKeyboardButton('🎛️ Aʙᴏᴜᴛ', callback_data='about'),
                 InlineKeyboardButton('🛠️ Hᴇʟᴩ', callback_data='help')
@@ -54,7 +54,7 @@ async def cb_handler(client, query: CallbackQuery):
                 #⚠️ don't change source code & source link ⚠️ #
                 InlineKeyboardButton("🔥 Oᴡɴᴇʀ 🔥", url="https://t.me/Flipkartlootzs")
                 ],[
-                InlineKeyboardButton("⚡ Mᴏʀᴇ Bᴏᴛ's ⚡", url='https://t.me/pathan_botz/182')
+                InlineKeyboardButton("⚡ Mᴏʀᴇ Bᴏᴛ's ⚡", url='https://telegram.me/Private_Bots')
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
@@ -68,7 +68,7 @@ async def cb_handler(client, query: CallbackQuery):
                 #⚠️ don't change source code & source link ⚠️ #
                 InlineKeyboardButton("🔥 Oᴡɴᴇʀ 🔥", url="https://t.me/Flipkartlootzs")
                 ],[
-                InlineKeyboardButton("⚡ Mᴏʀᴇ Bᴏᴛ's ⚡", url="https://t.me/pathan_botz/182")
+                InlineKeyboardButton("⚡ Mᴏʀᴇ Bᴏᴛ's ⚡", url="https://telegram.me/Private_Bots")
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
@@ -82,7 +82,7 @@ async def cb_handler(client, query: CallbackQuery):
                 #⚠️ don't change source code & source link ⚠️ #
                 InlineKeyboardButton("🔥 Oᴡɴᴇʀ 🔥", url="https://t.me/Flipkartlootzs")
                 ],[
-                InlineKeyboardButton("⚡ Mᴏʀᴇ Bᴏᴛ's ⚡", url="https://t.me/pathan_botz/182")
+                InlineKeyboardButton("⚡ Mᴏʀᴇ Bᴏᴛ's ⚡", url="https://telegram.me/Private_Bots")
                 ],[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")

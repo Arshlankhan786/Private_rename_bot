@@ -69,8 +69,8 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ 
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
-» Sᴘᴇᴄɪᴀʟ Tʜᴀɴᴋs : <a href=https://t.me/Movies_vala_Family>MR.MOVIE_VALA</a>
-» Sᴜᴘᴘᴏʀᴛ Us : <a href=https://t.me/back_up_pathan>Pᴀᴛʜᴀɴ_Bᴏᴛᴢ</a>"""
+» Sᴘᴇᴄɪᴀʟ Tʜᴀɴᴋs : <a href=https://t.me/Prime_Hritu>ᴳᵒᵈ Pʀɪᴍᴇ Hʀɪᴛᴜ »⃟🇮🇳 🚩</a>
+» Sᴜᴘᴘᴏʀᴛ Us : <a href=https://telegram.me/private_bots>Pʀɪᴠᴀᴛᴇ Bᴏᴛs</a>"""
 
 
     PROGRESS_BAR = """<b>\n
